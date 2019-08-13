@@ -1,2 +1,2 @@
-# homework-10
+# liri-node-app
 liri bot
